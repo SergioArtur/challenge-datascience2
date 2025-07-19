@@ -51,7 +51,7 @@ Observou-se um alto índice de evasão nos seguintes grupos de clientes:
 
 ## Relatório Final e Recomendações Estratégicas
 
-Com base nos dados analisados, recomendamos as seguintes ações para reduzir a taxa de Churn:
+Com base nos dados analisados, recomendo as seguintes ações para reduzir a taxa de Churn:
 
 1. **Foco no Público Jovem:** Criar campanhas de retenção voltadas a clientes mais jovens, principal grupo de risco.
 2. **Incentivo a Contratos de Longo Prazo:** Oferecer benefícios para estimular contratos anuais ou bianuais, reduzindo a dependência do plano mensal.
